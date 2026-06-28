@@ -50,11 +50,13 @@ jobs:
         run: python crypto_poster.py post
         
       - name: Install X deps
-        run: pip install requests
+        run: pip install requests pynacl
 
       - name: Post to X
+        continue-on-error: true
         env:
           X_CLIENT_ID:     ${{ secrets.X_CLIENT_ID }}
           X_CLIENT_SECRET: ${{ secrets.X_CLIENT_SECRET }}
           X_REFRESH_TOKEN: ${{ secrets.X_REFRESH_TOKEN }}
+          GH_PAT:          ${{ secrets.GH_PAT }}
         run: python x_poster.py
