@@ -1,14 +1,21 @@
 # .github/workflows/post.yml
-# candlewikz — daily automated crypto card -> Instagram. Free on GitHub Actions.
+# candlewikz — automated crypto cards -> Instagram + X + Telegram.
+# Two runs/day with a weekly card rotation (resolved in crypto_poster.py).
 name: Daily crypto post
 
 on:
   schedule:
-    - cron: "30 13 * * *"     # 13:30 UTC daily — change to your audience's peak (UTC)
-  workflow_dispatch: {}        # manual "Run workflow" button for testing
+    - cron: "30 13 * * *"     # 13:30 UTC  -> MORNING slot (am)
+    - cron: "0 21 * * *"      # 21:00 UTC  -> EVENING slot (pm)
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Which slot to run manually (am or pm)"
+        required: false
+        default: "am"
 
 permissions:
-  contents: write              # lets the job commit the rendered image
+  contents: write
 
 concurrency:
   group: daily-post
@@ -24,10 +31,21 @@ jobs:
           python-version: "3.12"
       - run: pip install pillow
 
+      # Decide am/pm: 21:00 cron = pm, everything else (13:30 cron or manual) uses the input/default.
+      - name: Resolve slot
+        id: slot
+        run: |
+          if [ "${{ github.event.schedule }}" = "0 21 * * *" ]; then
+            echo "slot=pm" >> "$GITHUB_OUTPUT"
+          else
+            echo "slot=${{ github.event.inputs.slot || 'am' }}" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Render card
         env:
-          CARD_MODE: fixed             # fixed | top | movers
+          SLOT: ${{ steps.slot.outputs.slot }}   # script's rotation picks the card from day+slot
           BRAND_NAME: "candlewikz"
+          GATE: "1"                              # anti-white-noise relevance gate ON
         run: python crypto_poster.py render
 
       - name: Commit rendered image
@@ -48,7 +66,7 @@ jobs:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IMAGE_URL: "https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/output/latest.png"
         run: python crypto_poster.py post
-        
+
       - name: Install X deps
         run: pip install requests pynacl
 
@@ -60,7 +78,7 @@ jobs:
           X_REFRESH_TOKEN: ${{ secrets.X_REFRESH_TOKEN }}
           GH_PAT:          ${{ secrets.GH_PAT }}
         run: python x_poster.py
-        
+
       - name: Post to Telegram
         continue-on-error: true
         env:
