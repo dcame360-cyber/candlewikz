@@ -60,3 +60,10 @@ jobs:
           X_REFRESH_TOKEN: ${{ secrets.X_REFRESH_TOKEN }}
           GH_PAT:          ${{ secrets.GH_PAT }}
         run: python x_poster.py
+        
+      - name: Post to Telegram
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python telegram_poster.py
