@@ -47,3 +47,13 @@ jobs:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IMAGE_URL: "https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/output/latest.png"
         run: python crypto_poster.py post
+        
+      - name: Install X deps
+        run: pip install requests
+
+      - name: Post to X
+        env:
+          X_CLIENT_ID:     ${{ secrets.X_CLIENT_ID }}
+          X_CLIENT_SECRET: ${{ secrets.X_CLIENT_SECRET }}
+          X_REFRESH_TOKEN: ${{ secrets.X_REFRESH_TOKEN }}
+        run: python x_poster.py
