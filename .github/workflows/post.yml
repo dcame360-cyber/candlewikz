@@ -1,0 +1,49 @@
+# .github/workflows/post.yml
+# candlewikz — daily automated crypto card -> Instagram. Free on GitHub Actions.
+name: Daily crypto post
+
+on:
+  schedule:
+    - cron: "30 13 * * *"     # 13:30 UTC daily — change to your audience's peak (UTC)
+  workflow_dispatch: {}        # manual "Run workflow" button for testing
+
+permissions:
+  contents: write              # lets the job commit the rendered image
+
+concurrency:
+  group: daily-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+
+      - name: Render card
+        env:
+          CARD_MODE: fixed             # fixed | top | movers
+          BRAND_NAME: "candlewikz"
+        run: python crypto_poster.py render
+
+      - name: Commit rendered image
+        run: |
+          git config user.name  "github-actions"
+          git config user.email "actions@github.com"
+          git add output/latest.png output/caption.txt
+          git commit -m "card: $(date -u +%FT%TZ)" || { echo "nothing to commit"; exit 0; }
+          git push
+
+      - name: Wait for raw CDN to update
+        run: sleep 15
+
+      - name: Publish to Instagram
+        env:
+          IG_USER_ID:      ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IMAGE_URL: "https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/output/latest.png"
+        run: python crypto_poster.py post
