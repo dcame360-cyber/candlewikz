@@ -55,6 +55,7 @@ IMG_PATH = os.path.join(OUTPUT_DIR, "latest.png")
 CAPTION_PATH = os.path.join(OUTPUT_DIR, "caption.txt")
 
 GRAPH_VERSION = "v21.0"
+GRAPH_HOST = "graph.instagram.com"   # Instagram-login token host
 USER_AGENT = "candlewikz/1.0"
 
 HASHTAG_SETS = [
@@ -203,7 +204,7 @@ def build_caption(title, rows):
 
 def _graph_post(path, params):
     data = parse.urlencode(params).encode()
-    req = request.Request(f"https://graph.facebook.com/{GRAPH_VERSION}/{path}",
+    req = request.Request(f"https://{GRAPH_HOST}/{GRAPH_VERSION}/{path}",
                           data=data, method="POST", headers={"User-Agent": USER_AGENT})
     try:
         with request.urlopen(req, timeout=60) as r:
