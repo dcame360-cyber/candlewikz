@@ -220,9 +220,32 @@ def post():
         caption = f.read()
     created = _graph_post(f"{ig_user}/media",
                           {"image_url": image_url, "caption": caption, "access_token": token})
-    print(f"created container {created['id']}")
+    creation_id = created["id"]
+    print(f"created container {creation_id}")
+
+    # Instagram needs time to process the uploaded image before it can be
+    # published. Poll its status (up to ~60s) instead of publishing immediately
+    # (fixes error subcode 2207027 "media is not ready for publishing").
+    for _ in range(12):
+        time.sleep(5)
+        try:
+            url = (f"https://{GRAPH_HOST}/{GRAPH_VERSION}/{creation_id}"
+                   f"?fields=status_code&access_token={token}")
+            req = request.Request(url, headers={"User-Agent": USER_AGENT})
+            status = json.loads(request.urlopen(req, timeout=30).read().decode())
+            code = status.get("status_code")
+            print(f"container status: {code}")
+            if code == "FINISHED":
+                break
+            if code == "ERROR":
+                raise SystemExit(f"Container processing failed: {status}")
+        except SystemExit:
+            raise
+        except Exception as e:
+            print(f"status check retry: {e}")
+
     published = _graph_post(f"{ig_user}/media_publish",
-                            {"creation_id": created["id"], "access_token": token})
+                            {"creation_id": creation_id, "access_token": token})
     print(f"published: {published}")
 
 # ============================ MAIN ==========================================
@@ -242,3 +265,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
