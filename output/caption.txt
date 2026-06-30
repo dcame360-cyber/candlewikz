@@ -1,7 +1,14 @@
-DAILY PRICES - Jun 30, 2026
+BIGGEST MOVERS - 24H - Jun 30, 2026
 
-BTC  $58,331  (-2.35%)
-ETH  $1,564  (-0.87%)
+Gainers:
+M  +23.32%
+WBT  +12.42%
+BEAT  +4.55%
+
+Losers:
+LAB  -10.39%
+ENA  -9.04%
+VVV  -8.48%
 
 candlewikz
 Not financial advice.
