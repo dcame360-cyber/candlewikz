@@ -1,7 +1,14 @@
-DAILY PRICES - Jul 02, 2026
+BIGGEST MOVERS - 24H - Jul 02, 2026
 
-BTC  $61,609  (+2.44%)
-ETH  $1,698  (+4.81%)
+Gainers:
+M  +28.36%
+LAB  +27.67%
+UNI  +12.42%
+
+Losers:
+币安人生  -3.26%
+VVV  -3.04%
+XLM  -2.94%
 
 candlewikz
 Not financial advice.
