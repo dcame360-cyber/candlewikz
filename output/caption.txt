@@ -1,7 +1,11 @@
-DAILY PRICES - Jul 04, 2026
+TOP 6 BY MARKET CAP - Jul 04, 2026
 
-BTC  $62,648  (+1.04%)
-ETH  $1,770  (+2.04%)
+BTC  $63,237  (+0.87%)
+ETH  $1,788  (+1.47%)
+USDT  $0.9993  (+0.02%)
+BNB  $573.80  (+0.15%)
+USDC  $0.9999  (-0.01%)
+XRP  $1.17  (+3.04%)
 
 candlewikz
 Not financial advice.
