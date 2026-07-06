@@ -1,13 +1,10 @@
-TOP 6 BY MARKET CAP - Jul 05, 2026
+MARKET OVERVIEW - Jul 06, 2026
 
-BTC  $62,911  (-0.56%)
-ETH  $1,780  (-0.43%)
-USDT  $0.9991  (-0.01%)
-BNB  $588.31  (+2.47%)
-USDC  $0.9998  (-0.01%)
-XRP  $1.14  (-2.01%)
+Market cap  $2.28T  (+0.92%)
+BTC dominance  55.8%
+Fear & Greed  24 (Extreme Fear)
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
