@@ -1,7 +1,14 @@
-DAILY PRICES - Jul 07, 2026
+BIGGEST MOVERS - 24H - Jul 07, 2026
 
-BTC  $63,873  (+0.69%)
-ETH  $1,795  (+0.53%)
+Gainers:
+M  +8.83%
+ZEC  +5.90%
+HTX  +4.80%
+
+Losers:
+LAB  -56.59%
+GRAM  -9.15%
+WLD  -8.76%
 
 candlewikz
 Not financial advice.
