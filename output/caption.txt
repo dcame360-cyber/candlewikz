@@ -1,8 +1,11 @@
-MARKET OVERVIEW - Jul 08, 2026
+TOP 6 BY MARKET CAP - Jul 08, 2026
 
-Market cap  $2.21T  (-3.36%)
-BTC dominance  55.9%
-Fear & Greed  20 (Extreme Fear)
+BTC  $62,145  (-1.77%)
+ETH  $1,737  (-1.85%)
+USDT  $0.9992  (-0.01%)
+BNB  $566.39  (-1.90%)
+USDC  $0.9999  (+0.00%)
+XRP  $1.09  (-2.15%)
 
 candlewikz
 Not financial advice.
