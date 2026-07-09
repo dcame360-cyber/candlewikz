@@ -1,7 +1,14 @@
-DAILY PRICES - Jul 09, 2026
+BIGGEST MOVERS - 24H - Jul 09, 2026
 
-BTC  $62,809  (+1.64%)
-ETH  $1,739  (+0.76%)
+Gainers:
+ARB  +15.37%
+MORPHO  +7.98%
+ICP  +6.16%
+
+Losers:
+M  -9.68%
+BEAT  -9.16%
+DEXE  -4.68%
 
 candlewikz
 Not financial advice.
