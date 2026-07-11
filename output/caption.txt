@@ -1,16 +1,9 @@
-BIGGEST MOVERS - 24H - Jul 10, 2026
+DAILY PRICES - Jul 11, 2026
 
-Gainers:
-BEAT  +20.99%
-DEXE  +13.88%
-LIT  +12.45%
-
-Losers:
-BDX  -5.36%
-JUP  -3.06%
-FIGR_HELOC  -3.05%
+BTC  $64,363  (+0.57%)
+ETH  $1,806  (+1.29%)
 
 candlewikz
 Not financial advice.
 
-#btc #eth #crypto #cryptotrading #investing #hodl #cryptomarket
+#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
