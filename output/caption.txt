@@ -1,7 +1,14 @@
-DAILY PRICES - Jul 14, 2026
+BIGGEST MOVERS - 24H - Jul 14, 2026
 
-BTC  $64,223  (+2.46%)
-ETH  $1,876  (+5.53%)
+Gainers:
+LIT  +12.11%
+ZEC  +9.76%
+ENA  +8.72%
+
+Losers:
+BDX  -10.25%
+PUMP  -1.48%
+USDY  -0.33%
 
 candlewikz
 Not financial advice.
