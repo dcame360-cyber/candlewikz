@@ -1,7 +1,14 @@
-DAILY PRICES - Jul 16, 2026
+BIGGEST MOVERS - 24H - Jul 16, 2026
 
-BTC  $64,295  (-1.60%)
-ETH  $1,872  (-2.97%)
+Gainers:
+CRO  +8.82%
+STABLE  +5.62%
+PUMP  +5.17%
+
+Losers:
+HYPE  -6.90%
+ZEC  -6.18%
+DEXE  -5.29%
 
 candlewikz
 Not financial advice.
