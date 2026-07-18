@@ -1,16 +1,9 @@
-BIGGEST MOVERS - 24H - Jul 17, 2026
+DAILY PRICES - Jul 18, 2026
 
-Gainers:
-PI  +4.07%
-QNT  +2.27%
-XDC  +2.00%
-
-Losers:
-STABLE  -9.57%
-ADI  -6.21%
-NEAR  -5.84%
+BTC  $64,141  (+1.67%)
+ETH  $1,844  (+1.43%)
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
