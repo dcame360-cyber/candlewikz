@@ -1,7 +1,11 @@
-DAILY PRICES - Jul 18, 2026
+TOP 6 BY MARKET CAP - Jul 18, 2026
 
-BTC  $64,141  (+1.67%)
-ETH  $1,844  (+1.43%)
+BTC  $64,644  (+0.93%)
+ETH  $1,858  (+0.93%)
+USDT  $0.9993  (-0.00%)
+BNB  $570.27  (+0.37%)
+USDC  $0.9999  (-0.00%)
+XRP  $1.09  (+0.40%)
 
 candlewikz
 Not financial advice.
