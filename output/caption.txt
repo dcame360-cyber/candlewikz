@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Jul 20, 2026
+BIGGEST MOVERS - 24H - Jul 20, 2026
 
-Market cap  $2.30T  (+0.24%)
-BTC dominance  56.6%
-Fear & Greed  29 (Fear)
+Gainers:
+PI  +7.82%
+PUMP  +5.32%
+WLD  +4.79%
+
+Losers:
+币安人生  -6.97%
+CC  -2.70%
+FIGR_HELOC  -1.65%
 
 candlewikz
 Not financial advice.
