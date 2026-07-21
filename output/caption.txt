@@ -1,16 +1,9 @@
-BIGGEST MOVERS - 24H - Jul 20, 2026
+DAILY PRICES - Jul 21, 2026
 
-Gainers:
-PI  +7.82%
-PUMP  +5.32%
-WLD  +4.79%
-
-Losers:
-币安人生  -6.97%
-CC  -2.70%
-FIGR_HELOC  -1.65%
+BTC  $66,684  (+2.75%)
+ETH  $1,928  (+2.44%)
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
