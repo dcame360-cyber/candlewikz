@@ -1,7 +1,14 @@
-DAILY PRICES - Jul 21, 2026
+BIGGEST MOVERS - 24H - Jul 21, 2026
 
-BTC  $66,684  (+2.75%)
-ETH  $1,928  (+2.44%)
+Gainers:
+ONDO  +12.21%
+VVV  +10.07%
+LIT  +8.94%
+
+Losers:
+PI  -5.88%
+币安人生  -4.38%
+M  -3.29%
 
 candlewikz
 Not financial advice.
