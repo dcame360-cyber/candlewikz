@@ -1,7 +1,14 @@
-DAILY PRICES - Jul 23, 2026
+BIGGEST MOVERS - 24H - Jul 23, 2026
 
-BTC  $64,861  (-1.60%)
-ETH  $1,892  (-2.30%)
+Gainers:
+BCAP  +363.10%
+BEAT  +17.80%
+币安人生  +15.10%
+
+Losers:
+PI  -6.20%
+LIT  -4.60%
+FIL  -4.30%
 
 candlewikz
 Not financial advice.
