@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Jul 24, 2026
+BIGGEST MOVERS - 24H - Jul 24, 2026
 
-Market cap  $2.27T  (-1.42%)
-BTC dominance  56.5%
-Fear & Greed  28 (Fear)
+Gainers:
+HASH  +8.40%
+BEAT  +6.80%
+M  +5.30%
+
+Losers:
+LIT  -6.70%
+币安人生  -6.40%
+SKY  -6.00%
 
 candlewikz
 Not financial advice.
