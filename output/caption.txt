@@ -1,7 +1,14 @@
-DAILY PRICES - Jul 28, 2026
+BIGGEST MOVERS - 24H - Jul 28, 2026
 
-BTC  $63,775  (-2.90%)
-ETH  $1,913  (-3.80%)
+Gainers:
+BEAT  +9.10%
+LIT  +4.20%
+MORPHO  +2.20%
+
+Losers:
+SHIB  -8.30%
+PUMP  -7.90%
+WLD  -6.10%
 
 candlewikz
 Not financial advice.
