@@ -1,7 +1,14 @@
-DAILY PRICES - Jul 30, 2026
+BIGGEST MOVERS - 24H - Jul 30, 2026
 
-BTC  $64,675  (+0.20%)
-ETH  $1,917  (+0.50%)
+Gainers:
+UNI  +12.80%
+FIL  +9.30%
+PUMP  +8.10%
+
+Losers:
+M  -14.20%
+STABLE  -4.40%
+XDC  -4.20%
 
 candlewikz
 Not financial advice.
