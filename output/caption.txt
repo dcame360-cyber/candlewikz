@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Aug 03, 2026
+BIGGEST MOVERS - 24H - Aug 03, 2026
 
-Market cap  $2.26T  (+0.47%)
-BTC dominance  56.4%
-Fear & Greed  28 (Fear)
+Gainers:
+ATOM  +8.20%
+ALGO  +7.30%
+VVV  +4.00%
+
+Losers:
+BEAT  -8.50%
+UNI  -7.00%
+币安人生  -3.70%
 
 candlewikz
 Not financial advice.
