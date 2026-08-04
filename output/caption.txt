@@ -1,7 +1,14 @@
-DAILY PRICES - Aug 04, 2026
+BIGGEST MOVERS - 24H - Aug 04, 2026
 
-BTC  $63,862  (+1.60%)
-ETH  $1,864  (+1.10%)
+Gainers:
+PUMP  +14.20%
+DOT  +4.00%
+ZEC  +3.80%
+
+Losers:
+BEAT  -17.60%
+币安人生  -5.80%
+CC  -5.60%
 
 candlewikz
 Not financial advice.
