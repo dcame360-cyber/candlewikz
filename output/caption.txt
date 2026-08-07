@@ -1,13 +1,16 @@
-TOP 6 BY MARKET CAP - Aug 05, 2026
+BIGGEST MOVERS - 24H - Aug 07, 2026
 
-BTC  $64,627  (+0.70%)
-ETH  $1,907  (+1.80%)
-USDT  $0.9991  (+0.00%)
-BNB  $594.26  (+0.40%)
-USDC  $0.9996  (+0.00%)
-XRP  $1.06  (-1.20%)
+Gainers:
+LIT  +9.30%
+ADA  +5.00%
+币安人生  +4.50%
+
+Losers:
+BEAT  -17.70%
+CC  -11.90%
+M  -5.30%
 
 candlewikz
 Not financial advice.
 
-#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
+#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
