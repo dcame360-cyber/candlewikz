@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Aug 07, 2026
+BIGGEST MOVERS - 24H - Aug 07, 2026
 
-Market cap  $2.30T  (+0.37%)
-BTC dominance  56.8%
-Fear & Greed  29 (Fear)
+Gainers:
+OKB  +5.40%
+BDX  +5.20%
+ZEC  +3.60%
+
+Losers:
+BEAT  -12.40%
+币安人生  -9.00%
+ONDO  -5.00%
 
 candlewikz
 Not financial advice.
