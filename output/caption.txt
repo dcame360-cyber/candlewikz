@@ -1,16 +1,9 @@
-BIGGEST MOVERS - 24H - Aug 07, 2026
+DAILY PRICES - Aug 08, 2026
 
-Gainers:
-OKB  +5.40%
-BDX  +5.20%
-ZEC  +3.60%
-
-Losers:
-BEAT  -12.40%
-币安人生  -9.00%
-ONDO  -5.00%
+BTC  $64,974  (-0.30%)
+ETH  $1,919  (-0.50%)
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
