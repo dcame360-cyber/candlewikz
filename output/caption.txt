@@ -1,7 +1,11 @@
-DAILY PRICES - Aug 09, 2026
+TOP 6 BY MARKET CAP - Aug 09, 2026
 
-BTC  $65,154  (+0.30%)
-ETH  $1,921  (+0.20%)
+BTC  $65,082  (+0.10%)
+ETH  $1,920  (+0.00%)
+USDT  $0.9994  (+0.00%)
+BNB  $607.47  (+0.80%)
+USDC  $0.9997  (+0.00%)
+XRP  $1.04  (-0.10%)
 
 candlewikz
 Not financial advice.
