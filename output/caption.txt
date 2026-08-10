@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Aug 10, 2026
+BIGGEST MOVERS - 24H - Aug 10, 2026
 
-Market cap  $2.29T  (-0.67%)
-BTC dominance  56.6%
-Fear & Greed  30 (Fear)
+Gainers:
+MNT  +6.10%
+ICP  +5.30%
+WLD  +4.20%
+
+Losers:
+BEAT  -58.10%
+BTW  -11.30%
+ZEC  -3.20%
 
 candlewikz
 Not financial advice.
