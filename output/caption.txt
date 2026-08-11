@@ -1,7 +1,14 @@
-DAILY PRICES - Aug 11, 2026
+BIGGEST MOVERS - 24H - Aug 11, 2026
 
-BTC  $63,945  (-1.00%)
-ETH  $1,877  (-0.80%)
+Gainers:
+LINK  +5.10%
+CC  +3.80%
+FIGR_HELOC  +3.30%
+
+Losers:
+UNI  -5.20%
+ADA  -4.30%
+VVV  -4.00%
 
 candlewikz
 Not financial advice.
