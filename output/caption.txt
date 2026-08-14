@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Aug 14, 2026
+BIGGEST MOVERS - 24H - Aug 14, 2026
 
-Market cap  $2.24T  (-1.60%)
-BTC dominance  56.1%
-Fear & Greed  29 (Fear)
+Gainers:
+BTW  +17.80%
+OKB  +4.00%
+SHIB  +3.20%
+
+Losers:
+UNI  -8.10%
+BDX  -6.70%
+STABLE  -4.60%
 
 candlewikz
 Not financial advice.
