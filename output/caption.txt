@@ -1,7 +1,11 @@
-DAILY PRICES - Aug 16, 2026
+TOP 6 BY MARKET CAP - Aug 16, 2026
 
-BTC  $63,012  (+0.00%)
-ETH  $1,880  (+0.00%)
+BTC  $63,008  (-0.10%)
+ETH  $1,881  (-0.10%)
+USDT  $0.9992  (+0.00%)
+BNB  $604.79  (-1.00%)
+USDC  $0.9996  (+0.00%)
+XRP  $0.9990  (-0.40%)
 
 candlewikz
 Not financial advice.
