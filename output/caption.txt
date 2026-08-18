@@ -1,7 +1,14 @@
-DAILY PRICES - Aug 18, 2026
+BIGGEST MOVERS - 24H - Aug 18, 2026
 
-BTC  $64,180  (+1.10%)
-ETH  $1,896  (+0.00%)
+Gainers:
+HASH  +20.20%
+BTW  +17.00%
+VVV  +8.40%
+
+Losers:
+WLD  -7.60%
+FIL  -5.70%
+ETHFI  -4.00%
 
 candlewikz
 Not financial advice.
