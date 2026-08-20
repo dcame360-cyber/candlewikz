@@ -1,7 +1,14 @@
-DAILY PRICES - Aug 20, 2026
+BIGGEST MOVERS - 24H - Aug 20, 2026
 
-BTC  $71,706  (+10.60%)
-ETH  $2,279  (+17.70%)
+Gainers:
+ENA  +23.60%
+PUMP  +18.60%
+PEPE  +17.80%
+
+Losers:
+M  -3.90%
+STABLE  -2.60%
+WLFI  -1.50%
 
 candlewikz
 Not financial advice.
