@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Aug 21, 2026
+BIGGEST MOVERS - 24H - Aug 21, 2026
 
-Market cap  $2.60T  (+3.58%)
-BTC dominance  59.3%
-Fear & Greed  72 (Greed)
+Gainers:
+BCH  +30.40%
+ENA  +30.30%
+ZEC  +24.10%
+
+Losers:
+M  -4.00%
+MNT  -2.40%
+OKB  -2.10%
 
 candlewikz
 Not financial advice.
