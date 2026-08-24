@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Aug 24, 2026
+BIGGEST MOVERS - 24H - Aug 24, 2026
 
-Market cap  $2.68T  (-0.81%)
-BTC dominance  59.0%
-Fear & Greed  73 (Greed)
+Gainers:
+INJ  +6.21%
+RAIN  +5.82%
+POL  +4.81%
+
+Losers:
+TRUMP  -9.73%
+PUMP  -8.92%
+STABLE  -8.31%
 
 candlewikz
 Not financial advice.
