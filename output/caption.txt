@@ -1,7 +1,14 @@
-DAILY PRICES - Aug 25, 2026
+BIGGEST MOVERS - 24H - Aug 25, 2026
 
-BTC  $78,826  (-0.06%)
-ETH  $2,464  (-1.48%)
+Gainers:
+RAIN  +22.83%
+POL  +5.77%
+M  +2.58%
+
+Losers:
+ETHFI  -10.94%
+BTW  -9.93%
+TRUMP  -9.08%
 
 candlewikz
 Not financial advice.
