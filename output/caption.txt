@@ -1,14 +1,7 @@
-BIGGEST MOVERS - 24H - Aug 27, 2026
+DAILY PRICES - Aug 27, 2026
 
-Gainers:
-VET  +18.47%
-SPX  +16.53%
-PUMP  +9.36%
-
-Losers:
-POL  -10.27%
-STABLE  -9.17%
-RAIN  -3.55%
+BTC  $80,258  (+1.99%)
+ETH  $2,515  (+0.83%)
 
 candlewikz
 Not financial advice.
