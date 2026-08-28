@@ -1,9 +1,16 @@
-DAILY PRICES - Aug 27, 2026
+BIGGEST MOVERS - 24H - Aug 28, 2026
 
-BTC  $80,258  (+1.99%)
-ETH  $2,515  (+0.83%)
+Gainers:
+TRUMP  +21.41%
+ENA  +10.28%
+JUP  +9.83%
+
+Losers:
+MORPHO  -3.39%
+VVV  -3.02%
+JST  -2.98%
 
 candlewikz
 Not financial advice.
 
-#btc #eth #crypto #cryptotrading #investing #hodl #cryptomarket
+#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
