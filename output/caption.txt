@@ -1,14 +1,7 @@
-BIGGEST MOVERS - 24H - Sep 01, 2026
+DAILY PRICES - Sep 01, 2026
 
-Gainers:
-ARB  +30.27%
-FLR  +12.13%
-JUP  +8.64%
-
-Losers:
-POL  -6.35%
-SKY  -1.91%
-NEXO  -1.61%
+BTC  $77,514  (-1.37%)
+ETH  $2,432  (-1.41%)
 
 candlewikz
 Not financial advice.
