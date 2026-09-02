@@ -1,8 +1,11 @@
-MARKET OVERVIEW - Sep 02, 2026
+TOP 6 BY MARKET CAP - Sep 02, 2026
 
-Market cap  $2.61T  (-3.16%)
-BTC dominance  59.1%
-Fear & Greed  63 (Greed)
+BTC  $77,011  (-0.32%)
+ETH  $2,379  (-1.37%)
+USDT  $0.9997  (+0.01%)
+BNB  $685.88  (+0.78%)
+XRP  $1.35  (+0.03%)
+USDC  $0.9998  (+0.01%)
 
 candlewikz
 Not financial advice.
