@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Sep 04, 2026
+BIGGEST MOVERS - 24H - Sep 04, 2026
 
-Market cap  $2.70T  (-4.16%)
-BTC dominance  59.2%
-Fear & Greed  74 (Greed)
+Gainers:
+DASH  +27.56%
+NEAR  +9.37%
+ZEC  +8.23%
+
+Losers:
+ARB  -7.11%
+FIL  -5.73%
+CC  -5.71%
 
 candlewikz
 Not financial advice.
