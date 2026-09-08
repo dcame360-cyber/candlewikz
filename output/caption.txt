@@ -1,7 +1,14 @@
-DAILY PRICES - Sep 08, 2026
+BIGGEST MOVERS - 24H - Sep 08, 2026
 
-BTC  $78,681  (-0.58%)
-ETH  $2,496  (+0.22%)
+Gainers:
+VVV  +36.37%
+DOT  +18.79%
+ATOM  +14.10%
+
+Losers:
+WLD  -4.38%
+JUP  -4.01%
+JST  -3.04%
 
 candlewikz
 Not financial advice.
