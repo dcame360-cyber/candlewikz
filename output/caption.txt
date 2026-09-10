@@ -1,7 +1,14 @@
-DAILY PRICES - Sep 10, 2026
+BIGGEST MOVERS - 24H - Sep 10, 2026
 
-BTC  $77,141  (-2.05%)
-ETH  $2,447  (-1.89%)
+Gainers:
+ETHFI  +11.86%
+BTW  +10.59%
+VVV  +8.39%
+
+Losers:
+ZEC  -9.61%
+BCH  -9.60%
+PUMP  -7.35%
 
 candlewikz
 Not financial advice.
