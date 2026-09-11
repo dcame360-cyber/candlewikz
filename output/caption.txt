@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Sep 11, 2026
+BIGGEST MOVERS - 24H - Sep 11, 2026
 
-Market cap  $2.68T  (-1.22%)
-BTC dominance  58.2%
-Fear & Greed  56 (Greed)
+Gainers:
+JUP  +6.58%
+ZEC  +4.63%
+POL  +4.41%
+
+Losers:
+ATOM  -9.55%
+STABLE  -8.39%
+DOT  -7.23%
 
 candlewikz
 Not financial advice.
