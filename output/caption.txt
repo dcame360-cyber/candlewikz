@@ -1,16 +1,9 @@
-BIGGEST MOVERS - 24H - Sep 11, 2026
+DAILY PRICES - Sep 12, 2026
 
-Gainers:
-JUP  +6.58%
-ZEC  +4.63%
-POL  +4.41%
-
-Losers:
-ATOM  -9.55%
-STABLE  -8.39%
-DOT  -7.23%
+BTC  $77,361  (-0.15%)
+ETH  $2,533  (-0.71%)
 
 candlewikz
 Not financial advice.
 
-#btc #eth #crypto #cryptotrading #investing #hodl #cryptomarket
+#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
