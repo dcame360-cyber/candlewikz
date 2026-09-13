@@ -1,13 +1,9 @@
-TOP 6 BY MARKET CAP - Sep 12, 2026
+DAILY PRICES - Sep 13, 2026
 
-BTC  $77,192  (+0.04%)
-ETH  $2,521  (+0.03%)
-USDT  $0.9999  (+0.00%)
-BNB  $725.91  (+0.17%)
-XRP  $1.36  (+0.71%)
-USDC  $0.9999  (+0.00%)
+BTC  $77,280  (-0.08%)
+ETH  $2,505  (-1.04%)
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
