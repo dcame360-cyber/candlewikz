@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Sep 14, 2026
+BIGGEST MOVERS - 24H - Sep 14, 2026
 
-Market cap  $2.70T  (+0.09%)
-BTC dominance  58.5%
-Fear & Greed  57 (Greed)
+Gainers:
+ZEC  +9.40%
+XLM  +7.76%
+NEAR  +7.34%
+
+Losers:
+BTW  -21.77%
+RAIN  -5.85%
+M  -3.59%
 
 candlewikz
 Not financial advice.
