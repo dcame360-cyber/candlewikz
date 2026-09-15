@@ -1,7 +1,14 @@
-DAILY PRICES - Sep 15, 2026
+BIGGEST MOVERS - 24H - Sep 15, 2026
 
-BTC  $76,952  (-2.35%)
-ETH  $2,435  (-3.58%)
+Gainers:
+AKE  +69.79%
+BTW  +16.99%
+ARB  +12.50%
+
+Losers:
+INJ  -13.29%
+FIL  -13.08%
+XRP  -9.26%
 
 candlewikz
 Not financial advice.
