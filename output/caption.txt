@@ -1,7 +1,14 @@
-DAILY PRICES - Sep 17, 2026
+BIGGEST MOVERS - 24H - Sep 17, 2026
 
-BTC  $76,784  (+1.82%)
-ETH  $2,468  (+3.89%)
+Gainers:
+MCAT  +176.88%
+NEAR  +20.45%
+UNI  +18.84%
+
+Losers:
+BTW  -4.71%
+PI  -3.68%
+RAIN  -2.82%
 
 candlewikz
 Not financial advice.
