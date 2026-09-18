@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Sep 18, 2026
+BIGGEST MOVERS - 24H - Sep 18, 2026
 
-Market cap  $2.77T  (+2.01%)
-BTC dominance  58.5%
-Fear & Greed  56 (Greed)
+Gainers:
+AKE  +112.92%
+ARB  +24.11%
+APT  +21.44%
+
+Losers:
+BTW  -12.13%
+JST  -1.66%
+BDX  -0.35%
 
 candlewikz
 Not financial advice.
