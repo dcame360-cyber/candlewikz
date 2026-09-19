@@ -1,7 +1,11 @@
-DAILY PRICES - Sep 19, 2026
+TOP 6 BY MARKET CAP - Sep 19, 2026
 
-BTC  $81,847  (+0.93%)
-ETH  $2,649  (+1.75%)
+BTC  $81,072  (-0.10%)
+ETH  $2,623  (-0.02%)
+USDT  $0.9996  (-0.01%)
+BNB  $759.47  (-0.35%)
+XRP  $1.41  (+0.71%)
+USDC  $0.9997  (-0.01%)
 
 candlewikz
 Not financial advice.
