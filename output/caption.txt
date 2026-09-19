@@ -1,16 +1,9 @@
-BIGGEST MOVERS - 24H - Sep 18, 2026
+DAILY PRICES - Sep 19, 2026
 
-Gainers:
-AKE  +112.92%
-ARB  +24.11%
-APT  +21.44%
-
-Losers:
-BTW  -12.13%
-JST  -1.66%
-BDX  -0.35%
+BTC  $81,847  (+0.93%)
+ETH  $2,649  (+1.75%)
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
