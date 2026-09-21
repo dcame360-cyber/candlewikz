@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Sep 21, 2026
+BIGGEST MOVERS - 24H - Sep 21, 2026
 
-Market cap  $2.92T  (+2.91%)
-BTC dominance  58.9%
-Fear & Greed  70 (Greed)
+Gainers:
+TAO  +18.36%
+PEPE  +18.31%
+SUI  +15.98%
+
+Losers:
+ENA  -2.74%
+ZEC  -2.74%
+WLFI  -1.86%
 
 candlewikz
 Not financial advice.
