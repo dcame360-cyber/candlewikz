@@ -1,16 +1,9 @@
-BIGGEST MOVERS - 24H - Sep 21, 2026
+DAILY PRICES - Sep 22, 2026
 
-Gainers:
-TAO  +18.36%
-PEPE  +18.31%
-SUI  +15.98%
-
-Losers:
-ENA  -2.74%
-ZEC  -2.74%
-WLFI  -1.86%
+BTC  $86,551  (+0.66%)
+ETH  $2,755  (+0.09%)
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
