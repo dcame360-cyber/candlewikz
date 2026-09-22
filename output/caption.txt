@@ -1,7 +1,14 @@
-DAILY PRICES - Sep 22, 2026
+BIGGEST MOVERS - 24H - Sep 22, 2026
 
-BTC  $86,551  (+0.66%)
-ETH  $2,755  (+0.09%)
+Gainers:
+BCH  +28.88%
+PENGU  +15.39%
+UNI  +12.86%
+
+Losers:
+M  -10.66%
+AKE  -10.19%
+RAIN  -6.13%
 
 candlewikz
 Not financial advice.
