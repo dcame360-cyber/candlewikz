@@ -1,7 +1,14 @@
-DAILY PRICES - Sep 24, 2026
+BIGGEST MOVERS - 24H - Sep 24, 2026
 
-BTC  $84,167  (-0.16%)
-ETH  $2,671  (+0.13%)
+Gainers:
+QNT  +27.45%
+ONDO  +26.27%
+LTC  +16.71%
+
+Losers:
+AKE  -19.57%
+BTW  -7.63%
+LIT  -4.18%
 
 candlewikz
 Not financial advice.
