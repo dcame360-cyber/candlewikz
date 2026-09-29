@@ -1,10 +1,16 @@
-MARKET OVERVIEW - Sep 28, 2026
+BIGGEST MOVERS - 24H - Sep 29, 2026
 
-Market cap  $2.86T  (-3.59%)
-BTC dominance  58.3%
-Fear & Greed  74 (Greed)
+Gainers:
+HBAR  +27.37%
+ALGO  +13.90%
+LINK  +12.02%
+
+Losers:
+QNT  -17.56%
+NEAR  -9.06%
+ARB  -8.95%
 
 candlewikz
 Not financial advice.
 
-#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
+#btc #eth #crypto #cryptotrading #investing #hodl #cryptomarket
