@@ -1,14 +1,7 @@
-BIGGEST MOVERS - 24H - Oct 01, 2026
+DAILY PRICES - Oct 01, 2026
 
-Gainers:
-NIGHT  +22.02%
-STX  +18.23%
-WLD  +11.67%
-
-Losers:
-SKY  -4.74%
-BTW  -4.59%
-AVAX  -4.01%
+BTC  $84,726  (+0.97%)
+ETH  $2,699  (+0.79%)
 
 candlewikz
 Not financial advice.
