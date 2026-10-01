@@ -1,10 +1,16 @@
-MARKET OVERVIEW - Sep 30, 2026
+BIGGEST MOVERS - 24H - Oct 01, 2026
 
-Market cap  $2.88T  (-1.92%)
-BTC dominance  58.4%
-Fear & Greed  71 (Greed)
+Gainers:
+NIGHT  +22.02%
+STX  +18.23%
+WLD  +11.67%
+
+Losers:
+SKY  -4.74%
+BTW  -4.59%
+AVAX  -4.01%
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
