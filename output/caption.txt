@@ -1,14 +1,8 @@
-BIGGEST MOVERS - 24H - Oct 02, 2026
+MARKET OVERVIEW - Oct 02, 2026
 
-Gainers:
-SKY  +10.34%
-AAVE  +8.46%
-BTW  +7.16%
-
-Losers:
-QNT  -15.78%
-NEAR  -8.90%
-ENA  -8.20%
+Market cap  $2.89T  (-3.07%)
+BTC dominance  58.7%
+Fear & Greed  72 (Greed)
 
 candlewikz
 Not financial advice.
