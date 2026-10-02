@@ -1,9 +1,16 @@
-DAILY PRICES - Oct 01, 2026
+BIGGEST MOVERS - 24H - Oct 02, 2026
 
-BTC  $84,726  (+0.97%)
-ETH  $2,699  (+0.79%)
+Gainers:
+SKY  +10.34%
+AAVE  +8.46%
+BTW  +7.16%
+
+Losers:
+QNT  -15.78%
+NEAR  -8.90%
+ENA  -8.20%
 
 candlewikz
 Not financial advice.
 
-#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
+#btc #eth #crypto #cryptotrading #investing #hodl #cryptomarket
