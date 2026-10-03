@@ -1,11 +1,7 @@
-TOP 6 BY MARKET CAP - Oct 03, 2026
+DAILY PRICES - Oct 03, 2026
 
-BTC  $84,486  (-0.32%)
-ETH  $2,667  (-1.32%)
-USDT  $0.9999  (+0.02%)
-BNB  $768.60  (-0.36%)
-XRP  $1.48  (-0.59%)
-USDC  $1.0000  (+0.00%)
+BTC  $84,910  (+0.29%)
+ETH  $2,685  (+0.14%)
 
 candlewikz
 Not financial advice.
