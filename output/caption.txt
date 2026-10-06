@@ -1,14 +1,7 @@
-BIGGEST MOVERS - 24H - Oct 06, 2026
+DAILY PRICES - Oct 06, 2026
 
-Gainers:
-NIGHT  +12.79%
-FIL  +9.92%
-OKB  +9.06%
-
-Losers:
-AKE  -9.24%
-SKY  -8.42%
-BTW  -5.85%
+BTC  $85,540  (-0.11%)
+ETH  $2,692  (-0.68%)
 
 candlewikz
 Not financial advice.
