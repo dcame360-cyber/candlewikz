@@ -1,14 +1,7 @@
-BIGGEST MOVERS - 24H - Oct 08, 2026
+DAILY PRICES - Oct 08, 2026
 
-Gainers:
-RAY  +10.40%
-BTW  +8.03%
-NEAR  +3.25%
-
-Losers:
-SKY  -10.54%
-FIL  -7.71%
-APT  -7.60%
+BTC  $81,450  (-2.33%)
+ETH  $2,450  (-4.40%)
 
 candlewikz
 Not financial advice.
