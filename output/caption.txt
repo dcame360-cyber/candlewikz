@@ -1,14 +1,8 @@
-BIGGEST MOVERS - 24H - Oct 09, 2026
+MARKET OVERVIEW - Oct 09, 2026
 
-Gainers:
-STX  +3.64%
-BTW  +3.30%
-AERO  +2.80%
-
-Losers:
-NEAR  -14.84%
-ZRO  -11.57%
-VVV  -10.68%
+Market cap  $2.79T  (-0.66%)
+BTC dominance  59.2%
+Fear & Greed  59 (Greed)
 
 candlewikz
 Not financial advice.
