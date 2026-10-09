@@ -1,9 +1,16 @@
-DAILY PRICES - Oct 08, 2026
+BIGGEST MOVERS - 24H - Oct 09, 2026
 
-BTC  $81,450  (-2.33%)
-ETH  $2,450  (-4.40%)
+Gainers:
+STX  +3.64%
+BTW  +3.30%
+AERO  +2.80%
+
+Losers:
+NEAR  -14.84%
+ZRO  -11.57%
+VVV  -10.68%
 
 candlewikz
 Not financial advice.
 
-#btc #eth #crypto #cryptotrading #investing #hodl #cryptomarket
+#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
