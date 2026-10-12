@@ -1,9 +1,16 @@
-DAILY PRICES - Oct 11, 2026
+BIGGEST MOVERS - 24H - Oct 12, 2026
 
-BTC  $83,772  (+0.90%)
-ETH  $2,538  (+1.22%)
+Gainers:
+STRK  +17.67%
+ICP  +12.37%
+NEAR  +12.14%
+
+Losers:
+M  -5.97%
+RAIN  -5.51%
+NIGHT  -1.81%
 
 candlewikz
 Not financial advice.
 
-#btc #eth #crypto #cryptotrading #investing #hodl #cryptomarket
+#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
