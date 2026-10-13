@@ -1,10 +1,16 @@
-MARKET OVERVIEW - Oct 12, 2026
+BIGGEST MOVERS - 24H - Oct 13, 2026
 
-Market cap  $2.81T  (-3.06%)
-BTC dominance  59.2%
-Fear & Greed  69 (Greed)
+Gainers:
+BTW  +7.76%
+BDX  +7.17%
+RENDER  +6.43%
+
+Losers:
+STRK  -26.52%
+ENA  -13.86%
+LIT  -12.32%
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
