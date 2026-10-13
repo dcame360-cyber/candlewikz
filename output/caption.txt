@@ -1,14 +1,7 @@
-BIGGEST MOVERS - 24H - Oct 13, 2026
+DAILY PRICES - Oct 13, 2026
 
-Gainers:
-BTW  +7.76%
-BDX  +7.17%
-RENDER  +6.43%
-
-Losers:
-STRK  -26.52%
-ENA  -13.86%
-LIT  -12.32%
+BTC  $83,118  (+0.51%)
+ETH  $2,503  (-0.54%)
 
 candlewikz
 Not financial advice.
