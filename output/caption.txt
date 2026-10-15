@@ -1,7 +1,14 @@
-DAILY PRICES - Oct 15, 2026
+BIGGEST MOVERS - 24H - Oct 15, 2026
 
-BTC  $82,419  (+0.96%)
-ETH  $2,447  (+0.61%)
+Gainers:
+AKE  +21.17%
+INJ  +10.68%
+PYTH  +8.97%
+
+Losers:
+BTW  -21.90%
+CC  -8.24%
+JST  -6.99%
 
 candlewikz
 Not financial advice.
