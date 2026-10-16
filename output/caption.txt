@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Oct 16, 2026
+BIGGEST MOVERS - 24H - Oct 16, 2026
 
-Market cap  $2.74T  (-3.97%)
-BTC dominance  59.3%
-Fear & Greed  63 (Greed)
+Gainers:
+TIA  +13.29%
+LIT  +5.18%
+JST  +3.48%
+
+Losers:
+AKE  -10.43%
+STX  -8.41%
+VVV  -8.10%
 
 candlewikz
 Not financial advice.
