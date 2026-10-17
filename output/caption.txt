@@ -1,7 +1,11 @@
-DAILY PRICES - Oct 17, 2026
+TOP 6 BY MARKET CAP - Oct 17, 2026
 
-BTC  $81,205  (-0.42%)
-ETH  $2,404  (-1.48%)
+BTC  $81,317  (-0.47%)
+ETH  $2,393  (-1.32%)
+USDT  $0.9991  (-0.01%)
+BNB  $715.65  (-0.87%)
+XRP  $1.29  (-1.31%)
+USDC  $0.9998  (-0.01%)
 
 candlewikz
 Not financial advice.
