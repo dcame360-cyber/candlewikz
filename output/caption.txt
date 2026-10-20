@@ -1,7 +1,14 @@
-DAILY PRICES - Oct 20, 2026
+BIGGEST MOVERS - 24H - Oct 20, 2026
 
-BTC  $82,735  (+0.98%)
-ETH  $2,448  (+2.01%)
+Gainers:
+AERO  +10.79%
+WLD  +10.21%
+ZEC  +9.87%
+
+Losers:
+ARB  -4.92%
+MORPHO  -3.15%
+BTW  -2.15%
 
 candlewikz
 Not financial advice.
