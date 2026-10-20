@@ -1,14 +1,7 @@
-BIGGEST MOVERS - 24H - Oct 20, 2026
+DAILY PRICES - Oct 20, 2026
 
-Gainers:
-WLD  +9.11%
-PUMP  +7.48%
-VVV  +6.74%
-
-Losers:
-BTW  -18.41%
-RAIN  -5.15%
-WLFI  -5.13%
+BTC  $82,735  (+0.98%)
+ETH  $2,448  (+2.01%)
 
 candlewikz
 Not financial advice.
