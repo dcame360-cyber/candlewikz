@@ -1,7 +1,14 @@
-DAILY PRICES - Oct 22, 2026
+BIGGEST MOVERS - 24H - Oct 22, 2026
 
-BTC  $81,051  (-4.23%)
-ETH  $2,375  (-5.50%)
+Gainers:
+AKE  +30.96%
+BTW  +17.19%
+M  +15.91%
+
+Losers:
+PUMP  -10.62%
+PEARL  -10.09%
+LIT  -9.86%
 
 candlewikz
 Not financial advice.
