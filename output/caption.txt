@@ -1,8 +1,14 @@
-MARKET OVERVIEW - Oct 23, 2026
+BIGGEST MOVERS - 24H - Oct 23, 2026
 
-Market cap  $2.75T  (-2.18%)
-BTC dominance  59.4%
-Fear & Greed  50 (Neutral)
+Gainers:
+AKE  +23.85%
+M  +5.61%
+PEPE  +3.24%
+
+Losers:
+WLD  -11.60%
+BTW  -7.99%
+LIT  -7.53%
 
 candlewikz
 Not financial advice.
