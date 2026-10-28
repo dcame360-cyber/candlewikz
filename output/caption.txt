@@ -1,9 +1,13 @@
-DAILY PRICES - Oct 27, 2026
+TOP 6 BY MARKET CAP - Oct 28, 2026
 
-BTC  $80,587  (+0.67%)
-ETH  $2,345  (+1.15%)
+BTC  $80,676  (+0.68%)
+ETH  $2,344  (+0.89%)
+USDT  $0.9988  (+0.01%)
+BNB  $742.46  (-0.14%)
+XRP  $1.33  (+1.42%)
+USDC  $0.9994  (+0.00%)
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
