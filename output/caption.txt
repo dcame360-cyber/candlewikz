@@ -1,11 +1,8 @@
-TOP 6 BY MARKET CAP - Oct 28, 2026
+MARKET OVERVIEW - Oct 28, 2026
 
-BTC  $80,676  (+0.68%)
-ETH  $2,344  (+0.89%)
-USDT  $0.9988  (+0.01%)
-BNB  $742.46  (-0.14%)
-XRP  $1.33  (+1.42%)
-USDC  $0.9994  (+0.00%)
+Market cap  $2.73T  (-2.09%)
+BTC dominance  59.5%
+Fear & Greed  51 (Neutral)
 
 candlewikz
 Not financial advice.
