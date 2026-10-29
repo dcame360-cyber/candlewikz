@@ -1,14 +1,7 @@
-BIGGEST MOVERS - 24H - Oct 29, 2026
+DAILY PRICES - Oct 29, 2026
 
-Gainers:
-PEPE  +11.13%
-PEARL  +7.70%
-KAS  +5.04%
-
-Losers:
-VVV  -7.19%
-RAIN  -4.98%
-M  -3.79%
+BTC  $80,747  (-0.42%)
+ETH  $2,326  (-1.28%)
 
 candlewikz
 Not financial advice.
