@@ -1,9 +1,16 @@
-DAILY PRICES - Oct 29, 2026
+BIGGEST MOVERS - 24H - Oct 30, 2026
 
-BTC  $80,747  (-0.42%)
-ETH  $2,326  (-1.28%)
+Gainers:
+HYPE  +10.54%
+TRX  +8.13%
+HTX  +5.60%
+
+Losers:
+ENA  -20.04%
+WLD  -16.95%
+PEARL  -16.44%
 
 candlewikz
 Not financial advice.
 
-#btc #eth #crypto #cryptotrading #investing #hodl #cryptomarket
+#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
