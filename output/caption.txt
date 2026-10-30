@@ -1,14 +1,8 @@
-BIGGEST MOVERS - 24H - Oct 30, 2026
+MARKET OVERVIEW - Oct 30, 2026
 
-Gainers:
-HYPE  +10.54%
-TRX  +8.13%
-HTX  +5.60%
-
-Losers:
-ENA  -20.04%
-WLD  -16.95%
-PEARL  -16.44%
+Market cap  $2.61T  (-6.92%)
+BTC dominance  59.2%
+Fear & Greed  30 (Fear)
 
 candlewikz
 Not financial advice.
