@@ -1,14 +1,8 @@
-BIGGEST MOVERS - 24H - Nov 02, 2026
+MARKET OVERVIEW - Nov 02, 2026
 
-Gainers:
-PEARL  +5.40%
-TRX  +3.62%
-NIGHT  +3.58%
-
-Losers:
-MORPHO  -5.68%
-M  -5.41%
-RAIN  -3.65%
+Market cap  $2.60T  (-2.77%)
+BTC dominance  59.2%
+Fear & Greed  37 (Fear)
 
 candlewikz
 Not financial advice.
