@@ -1,9 +1,16 @@
-DAILY PRICES - Nov 01, 2026
+BIGGEST MOVERS - 24H - Nov 02, 2026
 
-BTC  $77,881  (+0.30%)
-ETH  $2,261  (+0.27%)
+Gainers:
+PEARL  +5.40%
+TRX  +3.62%
+NIGHT  +3.58%
+
+Losers:
+MORPHO  -5.68%
+M  -5.41%
+RAIN  -3.65%
 
 candlewikz
 Not financial advice.
 
-#btc #eth #crypto #cryptotrading #investing #hodl #cryptomarket
+#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
