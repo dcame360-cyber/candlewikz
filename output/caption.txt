@@ -1,10 +1,16 @@
-MARKET OVERVIEW - Nov 02, 2026
+BIGGEST MOVERS - 24H - Nov 03, 2026
 
-Market cap  $2.60T  (-2.77%)
-BTC dominance  59.2%
-Fear & Greed  37 (Fear)
+Gainers:
+RAIN  +13.92%
+币安人生  +2.37%
+TRX  +2.07%
+
+Losers:
+BTW  -14.21%
+NEAR  -10.64%
+ZEC  -8.96%
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
