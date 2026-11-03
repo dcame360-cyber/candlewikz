@@ -1,14 +1,7 @@
-BIGGEST MOVERS - 24H - Nov 03, 2026
+DAILY PRICES - Nov 03, 2026
 
-Gainers:
-RAIN  +13.92%
-币安人生  +2.37%
-TRX  +2.07%
-
-Losers:
-BTW  -14.21%
-NEAR  -10.64%
-ZEC  -8.96%
+BTC  $77,656  (+1.02%)
+ETH  $2,289  (+1.70%)
 
 candlewikz
 Not financial advice.
