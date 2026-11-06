@@ -1,9 +1,16 @@
-DAILY PRICES - Nov 05, 2026
+BIGGEST MOVERS - 24H - Nov 06, 2026
 
-BTC  $76,091  (-5.03%)
-ETH  $2,248  (-7.00%)
+Gainers:
+BTW  +13.36%
+RAIN  +7.69%
+INJ  +4.52%
+
+Losers:
+ZRO  -12.21%
+ENA  -9.57%
+UNI  -8.97%
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
