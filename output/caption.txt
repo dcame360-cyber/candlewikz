@@ -1,14 +1,8 @@
-BIGGEST MOVERS - 24H - Nov 06, 2026
+MARKET OVERVIEW - Nov 06, 2026
 
-Gainers:
-BTW  +13.36%
-RAIN  +7.69%
-INJ  +4.52%
-
-Losers:
-ZRO  -12.21%
-ENA  -9.57%
-UNI  -8.97%
+Market cap  $2.57T  (-2.83%)
+BTC dominance  59.2%
+Fear & Greed  28 (Fear)
 
 candlewikz
 Not financial advice.
