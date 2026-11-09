@@ -1,14 +1,8 @@
-BIGGEST MOVERS - 24H - Nov 09, 2026
+MARKET OVERVIEW - Nov 09, 2026
 
-Gainers:
-PEPE  +3.58%
-GT  +0.81%
-USDY  +0.22%
-
-Losers:
-RAIN  -12.52%
-LIT  -7.74%
-PI  -7.02%
+Market cap  $2.53T  (-0.24%)
+BTC dominance  59.7%
+Fear & Greed  29 (Fear)
 
 candlewikz
 Not financial advice.
