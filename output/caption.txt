@@ -1,9 +1,16 @@
-DAILY PRICES - Nov 08, 2026
+BIGGEST MOVERS - 24H - Nov 09, 2026
 
-BTC  $75,826  (+0.03%)
-ETH  $2,233  (-0.18%)
+Gainers:
+PEPE  +3.58%
+GT  +0.81%
+USDY  +0.22%
+
+Losers:
+RAIN  -12.52%
+LIT  -7.74%
+PI  -7.02%
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
