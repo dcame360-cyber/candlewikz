@@ -1,14 +1,7 @@
-BIGGEST MOVERS - 24H - Nov 10, 2026
+DAILY PRICES - Nov 10, 2026
 
-Gainers:
-PIEVERSE  +40.36%
-GRAM  +7.97%
-ETHFI  +6.81%
-
-Losers:
-BTW  -12.53%
-RAIN  -8.87%
-ZRO  -6.95%
+BTC  $73,601  (-1.52%)
+ETH  $2,050  (-3.62%)
 
 candlewikz
 Not financial advice.
