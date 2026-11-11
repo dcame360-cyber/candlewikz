@@ -1,11 +1,8 @@
-TOP 6 BY MARKET CAP - Nov 11, 2026
+MARKET OVERVIEW - Nov 11, 2026
 
-BTC  $73,475  (-1.93%)
-ETH  $2,049  (-3.42%)
-USDT  $0.9990  (-0.00%)
-BNB  $679.20  (-1.36%)
-USDC  $0.9995  (+0.01%)
-XRP  $1.05  (-4.15%)
+Market cap  $2.50T  (-1.48%)
+BTC dominance  59.9%
+Fear & Greed  29 (Fear)
 
 candlewikz
 Not financial advice.
