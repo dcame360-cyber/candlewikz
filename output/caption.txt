@@ -1,14 +1,7 @@
-BIGGEST MOVERS - 24H - Nov 12, 2026
+DAILY PRICES - Nov 12, 2026
 
-Gainers:
-NIGHT  +10.86%
-GRAM  +5.25%
-PEARL  +4.67%
-
-Losers:
-PEPE  -16.32%
-BTW  -10.77%
-INJ  -9.35%
+BTC  $71,426  (-4.31%)
+ETH  $2,014  (-3.22%)
 
 candlewikz
 Not financial advice.
