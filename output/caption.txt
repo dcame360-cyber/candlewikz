@@ -1,14 +1,8 @@
-BIGGEST MOVERS - 24H - Nov 13, 2026
+MARKET OVERVIEW - Nov 13, 2026
 
-Gainers:
-BDX  +5.54%
-M  +4.59%
-PYTH  +4.58%
-
-Losers:
-PEARL  -8.84%
-GT  -8.53%
-STX  -6.78%
+Market cap  $2.35T  (-5.40%)
+BTC dominance  58.9%
+Fear & Greed  20 (Extreme Fear)
 
 candlewikz
 Not financial advice.
