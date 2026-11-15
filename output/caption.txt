@@ -1,9 +1,13 @@
-DAILY PRICES - Nov 14, 2026
+TOP 6 BY MARKET CAP - Nov 15, 2026
 
-BTC  $65,784  (-4.35%)
-ETH  $1,837  (-5.16%)
+BTC  $63,740  (-6.47%)
+ETH  $1,753  (-9.05%)
+USDT  $0.9996  (+0.05%)
+BNB  $577.99  (-8.23%)
+USDC  $0.9998  (+0.03%)
+XRP  $0.9227  (-8.55%)
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
