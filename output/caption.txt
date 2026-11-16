@@ -1,14 +1,8 @@
-BIGGEST MOVERS - 24H - Nov 16, 2026
+MARKET OVERVIEW - Nov 16, 2026
 
-Gainers:
-VVV  +17.18%
-PEARL  +11.98%
-CC  +10.88%
-
-Losers:
-BTW  -25.62%
-RAIN  -3.23%
-BDX  -1.81%
+Market cap  $2.23T  (-0.99%)
+BTC dominance  58.7%
+Fear & Greed  10 (Extreme Fear)
 
 candlewikz
 Not financial advice.
