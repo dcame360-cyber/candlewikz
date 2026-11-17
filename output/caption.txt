@@ -1,14 +1,7 @@
-BIGGEST MOVERS - 24H - Nov 17, 2026
+DAILY PRICES - Nov 17, 2026
 
-Gainers:
-RAIN  +72.22%
-ICP  +10.05%
-ZRO  +9.97%
-
-Losers:
-BTW  -31.08%
-JUP  -7.58%
-PI  -6.54%
+BTC  $64,299  (-1.49%)
+ETH  $1,805  (-1.21%)
 
 candlewikz
 Not financial advice.
