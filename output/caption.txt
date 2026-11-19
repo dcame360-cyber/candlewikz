@@ -1,14 +1,7 @@
-BIGGEST MOVERS - 24H - Nov 19, 2026
+DAILY PRICES - Nov 19, 2026
 
-Gainers:
-PIEVERSE  +57.59%
-PEARL  +20.20%
-BTW  +8.95%
-
-Losers:
-PI  -7.33%
-ASTER  -6.91%
-GRAM  -6.14%
+BTC  $61,502  (-1.24%)
+ETH  $1,739  (-1.35%)
 
 candlewikz
 Not financial advice.
