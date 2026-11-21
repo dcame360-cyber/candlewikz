@@ -1,11 +1,7 @@
-TOP 6 BY MARKET CAP - Nov 21, 2026
+DAILY PRICES - Nov 21, 2026
 
-BTC  $58,899  (-4.41%)
-ETH  $1,621  (-7.02%)
-USDT  $0.9984  (-0.07%)
-BNB  $537.52  (-6.38%)
-USDC  $0.9992  (-0.04%)
-XRP  $0.9086  (-5.10%)
+BTC  $60,308  (+3.19%)
+ETH  $1,685  (+4.93%)
 
 candlewikz
 Not financial advice.
