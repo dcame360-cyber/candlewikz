@@ -1,10 +1,13 @@
-MARKET OVERVIEW - Nov 20, 2026
+TOP 6 BY MARKET CAP - Nov 21, 2026
 
-Market cap  $2.02T  (-8.65%)
-BTC dominance  57.8%
-Fear & Greed  12 (Extreme Fear)
+BTC  $58,899  (-4.41%)
+ETH  $1,621  (-7.02%)
+USDT  $0.9984  (-0.07%)
+BNB  $537.52  (-6.38%)
+USDC  $0.9992  (-0.04%)
+XRP  $0.9086  (-5.10%)
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
