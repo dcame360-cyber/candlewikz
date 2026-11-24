@@ -1,16 +1,9 @@
-BIGGEST MOVERS - 24H - Nov 23, 2026
+DAILY PRICES - Nov 24, 2026
 
-Gainers:
-NIGHT  +10.08%
-PUMP  +9.53%
-PIEVERSE  +9.23%
-
-Losers:
-RAIN  -11.43%
-SKY  -5.90%
-CC  -3.14%
+BTC  $61,314  (+0.54%)
+ETH  $1,712  (-0.05%)
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
