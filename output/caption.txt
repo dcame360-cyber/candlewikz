@@ -1,7 +1,14 @@
-DAILY PRICES - Nov 24, 2026
+BIGGEST MOVERS - 24H - Nov 24, 2026
 
-BTC  $61,314  (+0.54%)
-ETH  $1,712  (-0.05%)
+Gainers:
+ATOM  +9.88%
+PEARL  +8.78%
+QNT  +6.73%
+
+Losers:
+PIEVERSE  -12.52%
+WLFI  -7.35%
+RAIN  -6.56%
 
 candlewikz
 Not financial advice.
