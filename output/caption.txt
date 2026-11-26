@@ -1,14 +1,7 @@
-BIGGEST MOVERS - 24H - Nov 26, 2026
+DAILY PRICES - Nov 26, 2026
 
-Gainers:
-PIEVERSE  +24.19%
-BTW  +13.28%
-VVV  +11.02%
-
-Losers:
-RAIN  -2.59%
-BDX  -1.69%
-TRX  -1.35%
+BTC  $60,569  (+0.91%)
+ETH  $1,697  (+0.92%)
 
 candlewikz
 Not financial advice.
