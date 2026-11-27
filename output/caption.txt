@@ -1,14 +1,8 @@
-BIGGEST MOVERS - 24H - Nov 27, 2026
+MARKET OVERVIEW - Nov 27, 2026
 
-Gainers:
-SKY  +14.47%
-PIEVERSE  +6.93%
-JUP  +6.72%
-
-Losers:
-XMR  -9.32%
-RAIN  -8.65%
-PEARL  -6.36%
+Market cap  $2.08T  (-4.08%)
+BTC dominance  57.7%
+Fear & Greed  12 (Extreme Fear)
 
 candlewikz
 Not financial advice.
