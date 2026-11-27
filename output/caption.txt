@@ -1,9 +1,16 @@
-DAILY PRICES - Nov 26, 2026
+BIGGEST MOVERS - 24H - Nov 27, 2026
 
-BTC  $60,569  (+0.91%)
-ETH  $1,697  (+0.92%)
+Gainers:
+SKY  +14.47%
+PIEVERSE  +6.93%
+JUP  +6.72%
+
+Losers:
+XMR  -9.32%
+RAIN  -8.65%
+PEARL  -6.36%
 
 candlewikz
 Not financial advice.
 
-#bitcoin #ethereum #crypto #btc #eth #cryptonews #blockchain
+#crypto #cryptocurrency #bitcoin #ethereum #altcoins #defi #web3
